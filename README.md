@@ -16,7 +16,15 @@ In order to use the environment, you should have
 
 * Arduino Uno x2
 * Sensor GY-61
-* DC-motor x3
+* DC-motor x3 (connecting via L298N)
+
+<p align="center">
+<img src="img/img1.png" alt>
+
+</p>
+<p align="center">
+<em>Sample caption</em>
+</p>
 
 
 
