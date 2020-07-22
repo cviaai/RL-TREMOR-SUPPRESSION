@@ -12,6 +12,15 @@ The code contains the environments for the reinforcement learning model. The fir
 * [pySerial](https://github.com/pyserial/pyserial) - library for communication between Arduino and Python
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) - library with implemented reinforcement learning algorithms
 
+In order to use the environment, you should have 
+
+* Arduino Uno x2
+* Sensor GY-61
+* DC-motor x3
+
+
+
+
 ## Virtual Part
 
 ### Requirements
