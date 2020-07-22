@@ -5,7 +5,7 @@ The code contains the environments for the reinforcement learning model. The fir
 
 ## Physical Part
 
-# Requirements
+### Requirements
 
 * Python 3.7
 * [OpenAI Gym](https://github.com/openai/gym) - open-source library for making gyms
