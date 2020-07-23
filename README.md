@@ -39,3 +39,18 @@ In order to use the environment, you should have
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) - library with implemented reinforcement learning algorithms
 
 
+# Citing
+
+If you use this package in your publications or in other work, please cite it as follows:
+
+```
+@misc{rl_tremor_sup,
+    title={System-software phantom for tremor suppression by using reinforcement learning},
+    author={Anna Anikina},
+    year={2018},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/cviaai/RL-TREMOR-SUPPRESSION/}}
+
+}
+```
