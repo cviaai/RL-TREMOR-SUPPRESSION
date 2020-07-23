@@ -53,3 +53,5 @@ If you use this package in your publications or in other work, please cite it as
     howpublished = {\url{https://github.com/cviaai/RL-TREMOR-SUPPRESSION/}}
     }
 ```
+# Maintainers
+Anna @annshorn
