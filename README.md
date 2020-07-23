@@ -51,6 +51,5 @@ If you use this package in your publications or in other work, please cite it as
     publisher = {GitHub},
     journal = {GitHub repository},
     howpublished = {\url{https://github.com/cviaai/RL-TREMOR-SUPPRESSION/}}
-
-}
+    }
 ```
