@@ -19,7 +19,7 @@ In order to use the environment, you should have
 * DC-motor x3 (connecting via L298N)
 
 <p align="center">
-<img width="490" height="310" src="img/img2.png" alt>
+<img width="490" height="310" src="img/img1.png" alt>
 
 </p>
 <p align="center">
