@@ -18,13 +18,21 @@ In order to use the environment, you should have
 * Sensor GY-61
 * DC-motor x3 (connecting via L298N)
 
+### Description
+
+The General scheme is shown in Figure. The experimental setup consists of a system for suppression, a system for creating oscillations, and an accelerometer for evaluating the system's state.
+
 <p align="center">
 <img width="490" height="310" src="img/img1.png" alt>
 
 </p>
 <p align="center">
-<em>Sample caption</em>
+<em>General scheme</em>
 </p>
+
+**Important parameter**
+
+
 
 
 
