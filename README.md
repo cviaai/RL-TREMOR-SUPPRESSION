@@ -54,4 +54,4 @@ If you use this package in your publications or in other work, please cite it as
     }
 ```
 # Maintainers
-Anna @annshorn
+Anna [@annshorn](https://github.com/annshorn) 
